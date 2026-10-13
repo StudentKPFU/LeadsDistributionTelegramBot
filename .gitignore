@@ -1,0 +1,66 @@
+# =========================
+# .NET / C#
+# =========================
+# Папки с результатами сборки
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Результаты тестов
+[Tt]est[Rr]esults/
+
+# Пользовательские файлы проектов
+*.user
+*.userosscache
+*.sln.docstates
+
+# Кэши и локальные файлы
+*.suo
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+# =========================
+# JetBrains Rider / ReSharper
+# =========================
+# Папка настроек проекта IDE
+.idea/
+.rider/
+
+# Файлы кэша и пользовательские настройки
+*.sln.iml
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# (Опционально) Раскомментируйте, если не хотите хранить общие настройки Rider в Git
+# *.DotSettings
+
+# =========================
+# macOS
+# =========================
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Скрытые файлы
+._*
+
+# Кэши и временные файлы системы
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
